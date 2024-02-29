@@ -54,4 +54,4 @@ cd ../infra; terraform apply -var="release_version=${release_version}"
 
 ## TO-DO
 ---
-Add VPC Module
+Add VPC Module With Private Subnet
